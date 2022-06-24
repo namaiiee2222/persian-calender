@@ -1,4 +1,5 @@
-Here is Persian Calender file
+Here is Persian calender files for holiday, all days and every events.
+You can add .ics files to any calender, outlook, google and etc. calenders.
 
 # icscleaner.py
 Sometimes for some reasons after syncronisation in calendar may be duplicate events.
