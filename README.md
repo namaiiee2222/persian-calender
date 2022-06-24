@@ -1,3 +1,5 @@
+Here is Persian Calender file
+
 # icscleaner.py
 Sometimes for some reasons after syncronisation in calendar may be duplicate events.
 So, this script removes duplicate events from iCal file (.ics)
